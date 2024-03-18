@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TAREAS-CRUD-MVC.props" />
+</Project>
